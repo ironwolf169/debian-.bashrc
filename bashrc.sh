@@ -15,4 +15,4 @@ alias delete='rm -R'
 
 alias halt='shutdown now'
 
-alias system='systemctl'" | tee -a ~/.bashrc
+alias system='systemctl' " | tee -a ~/.bashrc
