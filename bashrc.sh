@@ -1,7 +1,7 @@
 #!/bin/bash
 #This will place the aliases I use into .bashrc
 
-echo"
+echo "
 
 alias update='sudo apt update'
 
@@ -15,4 +15,4 @@ alias delete='rm -R'
 
 alias halt='shutdown now'
 
-alias system='systemctl' " | tee -a ~/.bashrc
+alias system='systemctl'" | tee -a ~/.bashrc
