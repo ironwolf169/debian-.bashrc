@@ -1,4 +1,16 @@
 # debian-.bashrc
 Adds my .bashrc alias to debian base distros.
 
-make sure you are in your home directory when you run this, and you do chmod +x .bashrc.sh to be able to execute this bash script.
+Go to the directory debian-.bashrc it should be in the directory where you did git clone.
+
+Run: sudo chmod +x bashrc.sh
+
+Run: bash bashrc.sh
+
+Run: source .bashrc 
+or 
+Run: source ~/.bashrc
+
+depending if your in your home directory or not.
+
+done.
